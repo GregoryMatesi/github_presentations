@@ -7,3 +7,5 @@ Multiple sub-goals we want to show:
 * updating changes (so everybody else has them)
 * pulling in changes from a remote
 * gaining familiarity with command line (AKA terminal)
+
+here's an extra change for Greg - from Sam 
